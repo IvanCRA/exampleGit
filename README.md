@@ -10,3 +10,9 @@ by by world
 if __main__ == 'main':
     print("Hello world")
 ```
+
+```kotlin
+fun main() {
+    println("Hi kotlin")
+}
+```
